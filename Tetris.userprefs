@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{0DE539F3-4D81-4351-A43A-13C12D33ECD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TetrisMonoDevelop/Game1.cs">
+    <Files>
+      <File FileName="TetrisMonoDevelop/Game1.cs" Line="58" Column="11" />
+      <File FileName="TetrisMonoDevelop/RandomBag.cs" Line="7" Column="28" />
+      <File FileName="TetrisMonoDevelop/TetriminoFactory.cs" Line="3" Column="28" />
+      <File FileName="TetrisMonoDevelop/Tetrimino.cs" Line="9" Column="6" />
+      <File FileName="TetrisMonoDevelop/enums.cs" Line="1" Column="28" />
+      <File FileName="TetrisMonoDevelop/Inputs.cs" Line="5" Column="28" />
+      <File FileName="TetrisMonoDevelop/Boundary.cs" Line="5" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TetrisMonoDevelop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

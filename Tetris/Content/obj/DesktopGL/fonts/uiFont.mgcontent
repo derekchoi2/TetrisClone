@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>A:/Dropbox/Programming/MonoGame/Tetris/Tetris/Content/fonts/uiFont.spritefont</SourceFile>
+  <SourceTime>2017-06-09T15:33:59+01:00</SourceTime>
+  <DestFile>A:/Dropbox/Programming/MonoGame/Tetris/Tetris/Content/bin/DesktopGL/fonts/uiFont.xnb</DestFile>
+  <DestTime>2017-09-03T22:32:03.313705+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-04-10T07:23:56+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-04-10T07:23:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
