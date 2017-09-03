@@ -13,3 +13,5 @@ Controls
 - Down arrow key to Soft Drop
 - Space to Hard Drop
 - "c" to hold a tetrimino
+
+.exe available in Releases section
